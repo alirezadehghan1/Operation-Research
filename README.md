@@ -1,6 +1,4 @@
-# Operation-Research
-
-Operations Research Course Project
+# Operations Research Course Project
 
 This project was completed as part of operations research I course. 
 It involved developing a mathematical model to optimize the allocation of repair equipment across multiple repair and collection centers. The model minimizes total costs including transportation, installation, and operational costs subject to equipment capacity and demand constraints.
